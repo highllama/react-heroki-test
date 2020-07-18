@@ -1,0 +1,11 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "precache-manifest.605e642ff45c1eff476f2f6cbed7c574.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "",
+  "license": "ISC"
+}
